@@ -1,5 +1,6 @@
 1. Pienas
-2. Duona
+2. Batonas
 3. Bulves
 4. Schrimps
-
+5. Kaukes
+6. Morkos
